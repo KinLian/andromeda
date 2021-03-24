@@ -1,0 +1,78 @@
+#Poster{
+    position: absolute;
+    width: 288px;
+    height: 491px;
+    left: 82px;
+    top: 175px;
+}
+#PosterImage{
+    position: absolute;
+    width: 288px;
+    height: 431px;
+    left: 0px;
+    top: 0px;
+
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+#Rated{
+    position: absolute;
+    width: 67px;
+    height: 24px;
+    left: 82px;
+    top: 50px;
+
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+#Title{
+    position: absolute;
+    height: 48px;
+    left: 82px;
+    top: 66px;
+    
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+#Info{
+    position: absolute;
+    width: 907px;
+    height: 565px;
+    left: 428px;
+    top: 174px;
+
+    font-family: Metropolis Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    display: block;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+#x{
+    left: 428px;
+    top: 154px;
+}
+#Info p{
+    font-size: 14px;
+}

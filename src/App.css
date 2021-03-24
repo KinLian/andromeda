@@ -1,38 +1,89 @@
-.App {
-  text-align: center;
+.App{
+    position: relative;
+    min-height:1000px;
+    background: #1C1C1C;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header{
+    position: absolute;
+    height: 62px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+
+    background: #EA8B8B;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#mainContent{
+    position: absolute;
+    width: 1000px;
+    height: 821px;
+    left: calc(50% - 1440px/2);
+    top: 62px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#Liked{
+    position: absolute;
+    width: 120px;
+    height: 62px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-indent: 24px;
+    
+    color: #FFFFFF;
+    cursor: pointer;
+}
+#Bookmark{
+    position: absolute;
+    width: 146px;
+    height: 38px;
+    left: 208px;
+    top: 630px;
+    cursor: pointer;
+}
+#Like{
+    position: absolute;
+    width: 93px;
+    height: 38px;
+    left: 99px;
+    top: 630px;
+    cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+#LB{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    height: 900px;
+    top: 62px;
+    background: #1C1C1C;
 }
+#LColor{
+    position: absolute;
+    width: 93px;
+    height: 38px;
+    left: 99px;
+    top: 630px;
+    
+    background: rgba(240, 101, 101, 0.88);
+    border-radius: 8px;
+}
+#BColor{
+    position: absolute;
+    width: 146px;
+    height: 38px;
+    left: 208px;
+    top: 630px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    background: #0094E7;
+    border-radius:13px;
 }

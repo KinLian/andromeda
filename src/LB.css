@@ -1,0 +1,143 @@
+.Main{
+    position: absolute;
+    width: 1440px;
+    height: 821px;
+}
+#L{
+    position: absolute;
+    height: 356px;
+    left: 5.9%;
+    right: 0%;
+    top: 14px;
+}
+#B{
+    position: absolute;
+    height: 359px;
+    left: 5.9%;
+    right: 0%;
+    top: 370px;
+}
+#LH{
+    position: absolute;
+    width: 308px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+#BH{
+    position: absolute;
+    width: 481px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+#LL{
+    position: absolute;
+    width: 550px;
+    height: 298px;
+    left: -20px;
+    top: 86px;
+
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+#BL{
+    position: absolute;
+    width: 550px;
+    height: 270px;
+    left: -20px;
+    top: 86px;
+
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+#LC{
+    position: absolute;
+    width: 149px;
+    height: 250px;
+    left: 20px;
+    top: 20px;
+}
+#BC{
+    position: absolute;
+    width: 149px;
+    height: 250px;
+    left: 20px;
+    top: 20px;
+}
+#LT{
+    position: absolute;
+    width: 159px;
+    height: 35px;
+    left: -4px;
+    top: 236px;
+    
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+#BT{
+    position: absolute;
+    width: 159px;
+    height: 35px;
+    left: -4px;
+    top: 236px;
+
+    font-family: Metropolis Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+#LP{
+    position: absolute;
+    width: 149px;
+    height: 223px;
+    left: 0px;
+    top: 0px;
+    
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+#BP{
+    position: absolute;
+    width: 149px;
+    height: 223px;
+    left: 0px;
+    top: 0px;
+
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
