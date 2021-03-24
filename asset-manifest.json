@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/andromeda/static/css/main.120ffcd9.chunk.css",
+    "main.js": "/andromeda/static/js/main.3b4c3b0e.chunk.js",
+    "main.js.map": "/andromeda/static/js/main.3b4c3b0e.chunk.js.map",
+    "runtime-main.js": "/andromeda/static/js/runtime-main.4946bb69.js",
+    "runtime-main.js.map": "/andromeda/static/js/runtime-main.4946bb69.js.map",
+    "static/js/2.9aaf69ea.chunk.js": "/andromeda/static/js/2.9aaf69ea.chunk.js",
+    "static/js/2.9aaf69ea.chunk.js.map": "/andromeda/static/js/2.9aaf69ea.chunk.js.map",
+    "static/js/3.aa6d3b80.chunk.js": "/andromeda/static/js/3.aa6d3b80.chunk.js",
+    "static/js/3.aa6d3b80.chunk.js.map": "/andromeda/static/js/3.aa6d3b80.chunk.js.map",
+    "index.html": "/andromeda/index.html",
+    "static/css/main.120ffcd9.chunk.css.map": "/andromeda/static/css/main.120ffcd9.chunk.css.map",
+    "static/js/2.9aaf69ea.chunk.js.LICENSE.txt": "/andromeda/static/js/2.9aaf69ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4946bb69.js",
+    "static/js/2.9aaf69ea.chunk.js",
+    "static/css/main.120ffcd9.chunk.css",
+    "static/js/main.3b4c3b0e.chunk.js"
+  ]
+}
